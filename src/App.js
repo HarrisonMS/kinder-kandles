@@ -4,6 +4,7 @@ import data from "./data";
 import Home from "./components/Home";
 import ItemsList from "./components/ItemsList";
 import Item from "./components/Item";
+import CandleImage from "./images/kinderKandle.PNG";
 import "./styles.css";
 
 const App = () => {
@@ -12,7 +13,13 @@ const App = () => {
   return (
     <div className="App">
       <nav>
-        <h1 className="store-header">Kinder Kandles</h1>
+        <div className="imgContainer">
+          <img
+            className="store-header"
+            src={CandleImage}
+            alt="Kinder Kandles logo"
+          />
+        </div>
         <div className="nav-links">
           <NavLink to="/">Home</NavLink>
           <NavLink to="/item-list">Shop</NavLink>

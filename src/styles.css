@@ -261,3 +261,14 @@ nav {
   flex-wrap:wrap;
   justify-content:space-around;
 }
+img {
+ 
+  width: 100%;
+  overflow: cover;
+  opacity: 80%;
+}
+
+nav {
+  background: rgb(255,93,0);
+  background: linear-gradient(52deg, rgba(255,93,0,1) 0%, rgba(255,239,0,1) 56%, rgba(255,59,0,1) 97%);
+}
