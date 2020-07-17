@@ -16,7 +16,7 @@ const App = () => {
         <div className="imgContainer">
           <img
             className="store-header"
-            src={CandleImage}
+            src="https://lh3.googleusercontent.com/VNsamn5JWhUwOO6dEilFteT1fsYVWHORgSc1HUK-1CNmTfZHYbaseNTVUrHlGjla2HGyH4cJ_OFT1JvNSdmkFSUdKqbtjtV5fxn42W_2Jrg7_W1MLD_TBBXQ9uli4m9eBeJp8bxE3Txm6tWD6mHNMZal18h6EolI__REdUy1ayrxMETLJUvnIHB5T5Dyo4fw4NrichLor3e7knabGBY8LNQFuQTe6ZKZmYf6_QmvNIJyd12DXJ0C5TOBq_o52OUdpq6rUN5sei8BKMdpmUXzn-abAce20mr6eihfNQZrgUCZVvd0ePU8wSI9CWpxROg_sYtrLx0inrI5YUIvktHCPwIKMmE9vAQ6CAqLhJzJ2wuaiH-fJEaZ-G2uiWcVwzcdOfBfXj10pucLaTZ6ScX9_04bBtEAMjmsXolhk7yF6KVlIC13MZrGFvmfW9Ld5-GSA-SIE4W-gbz8IIb1aHbNP7VYXoQK19lqJsX_L9hQdsHzNL359ghgsovqnwHQX7OAMCuEbDVXp9OdT-HQF47k7wkcHBRHQFGI9L2gC0sT8rxEaxEwDzIUn-H8hlCSUcpeI0k5aIL4GsuQoZXn4gpXWLmM-vljX9AM8O_8DOyAAivrpmoAl24BVwk10EiSzUGMKEtNbjDtuxs27LwzM0H5hI7dweKf5autAailGoYt9lkjkjqubVci6-dAWLE3kg=s104-no?authuser=0"
             alt="Kinder Kandles logo"
           />
         </div>
